@@ -12,10 +12,10 @@ For private audits or security consulting, please reach out to me on:
 ## Highlights
 
 - [Sherlock portfolio](https://audits.sherlock.xyz/watson/pkqs90)
-- Ranked 1st 🥇 in 5 audit contests at Sherlock and Code4rena, with also 12 top 10 finishings
-- Ranked #13 on Sherlock's all time leaderboard [[1]](https://x.com/woshilalala/status/1788198397259968978)
+- Ranked 1st 🥇 in 6 audit contests at Sherlock and Code4rena, with also 13 top 10 finishings
+- Ranked #12 on Sherlock's all time leaderboard [[1]](https://x.com/woshilalala/status/1822249088852607119)
 - Ranked #6 on Code4rena's 2024 leaderboard on July 2024 [[1]](https://x.com/woshilalala/status/1810453053113598055)
-- Led 4 audit contests as Lead Senior Watson on Sherlock
+- Led 5 audit contests as Lead Senior Watson on Sherlock
 
 ## Public Audit Contests
 
@@ -23,6 +23,7 @@ Note: The detailed findings for each contest can be found [here](https://audits.
 
 | Contest                              | Description                                                  | &nbsp;&nbsp;Ranking&nbsp;&nbsp; | Platform  | Date |
 | ------------------------------------ | ------------------------------------------------------------ | :-----------------------------------------: | :-------: | :--: |
+| [Midas - Instant Minter/Redeemer](https://audits.sherlock.xyz/contests/495)                         | This is issuing RWA tokens. This contest focuses on the new smart contract codebase that introduces new exciting features like the ability to instantly mint or redeem tokens, alongside new oracles. |                  🥇1 / 142                   | Sherlock  | 2024.08 |
 | [Super Boring](https://audits.sherlock.xyz/contests/360)                         | SuperBoring, powered by the powerful streaming DEX system TOREX, adds incentive program such as a utility token ($BORING), staking referral, and distribution fees. |                  🥇1 / 28                   | Sherlock  | 2024.07 |
 | [Predy](https://code4rena.com/audits/2024-05-predy)                                | Unlock seamless, gas-free trading with our fully on-chain, vault-free Intent-based DEX for Perpetuals and Gamma, with no virtual positions. |                  🥇1 / 67                   | Code4rena  | 2024.06 |
 | [Midas](https://audits.sherlock.xyz/contests/332/leaderboard)                                | Midas is an asset tokenization protocol that issues tokenized real-world assets as permissionless ERC-20 tokens. |                  🥇1 / 216                   | Sherlock  | 2024.05 |
