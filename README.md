@@ -1,6 +1,6 @@
 ## About Me
 
-I'm an independent security researcher specializing in smart contract audits with a proven track record in public audit contests. Currently, I'm a Lead Senior Watson at [Sherlock](https://audits.sherlock.xyz/), and Certified Warden at [Code4rena](https://code4rena.com/).
+I'm an independent security researcher specializing in smart contract audits with a proven track record in public audit contests. Currently, I'm a Lead Senior Watson at [Sherlock](https://audits.sherlock.xyz/), and Zenith Researcher at [Code4rena](https://code4rena.com/).
 
 Previous Life: 5 years of experience in the self-driving car industry, specializing in algorithm design, machine learning infrastructure, and system design.
 
@@ -12,7 +12,7 @@ For private audits or security consulting, please reach out to me on:
 ## Highlights
 
 - [Sherlock portfolio](https://audits.sherlock.xyz/watson/pkqs90)
-- Ranked 1st 🥇 in 6 audit contests at Sherlock and Code4rena, with also 13 top 10 finishings
+- Ranked 1st 🥇 in 7 audit contests at Sherlock and Code4rena, with also 14 top 10 finishings
 - Ranked #12 on Sherlock's all time leaderboard [[1]](https://x.com/woshilalala/status/1822249088852607119)
 - Ranked #6 on Code4rena's 2024 leaderboard on July 2024 [[1]](https://x.com/woshilalala/status/1810453053113598055)
 - Led 5 audit contests as Lead Senior Watson on Sherlock
@@ -23,6 +23,7 @@ Note: The detailed findings for each contest can be found [here](https://audits.
 
 | Contest                              | Description                                                  | &nbsp;&nbsp;Ranking&nbsp;&nbsp; | Platform  | Date |
 | ------------------------------------ | ------------------------------------------------------------ | :-----------------------------------------: | :-------: | :--: |
+| [Panoptic Invitational](https://code4rena.com/audits/2024-09-panoptic-invitational)                         | Permissionless, perpetual options trading on any token, any strike, any size. |                  🥇1 / 5                   | Code4rena  | 2024.10 |
 | [Midas - Instant Minter/Redeemer](https://audits.sherlock.xyz/contests/495)                         | This is issuing RWA tokens. This contest focuses on the new smart contract codebase that introduces new exciting features like the ability to instantly mint or redeem tokens, alongside new oracles. |                  🥇1 / 142                   | Sherlock  | 2024.08 |
 | [Super Boring](https://audits.sherlock.xyz/contests/360)                         | SuperBoring, powered by the powerful streaming DEX system TOREX, adds incentive program such as a utility token ($BORING), staking referral, and distribution fees. |                  🥇1 / 28                   | Sherlock  | 2024.07 |
 | [Predy](https://code4rena.com/audits/2024-05-predy)                                | Unlock seamless, gas-free trading with our fully on-chain, vault-free Intent-based DEX for Perpetuals and Gamma, with no virtual positions. |                  🥇1 / 67                   | Code4rena  | 2024.06 |
