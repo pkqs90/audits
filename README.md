@@ -13,7 +13,7 @@ For private audits or security consulting, please reach out to me on:
 
 - [Sherlock portfolio](https://audits.sherlock.xyz/watson/pkqs90)
 - Rank 1 🥇 in 10 audit contests at Sherlock / Code4rena / Cantina, with 15 top-5 finishings.
-- Rank #8 on Sherlock's all time leaderboard [[1]](https://x.com/woshilalala/status/1858698230500126799)
+- Rank #6 on Sherlock's all time leaderboard [[1]](https://x.com/sherlockdefi/status/1866120198429823267)
 - Rank #6 on Code4rena's 2024 leaderboard on July 2024 [[1]](https://x.com/woshilalala/status/1810453053113598055)
 - Lead 7 audit contests as Lead Senior Watson on Sherlock
 
