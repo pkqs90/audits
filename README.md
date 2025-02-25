@@ -1,6 +1,6 @@
 ## About Me
 
-I'm an independent security researcher specializing in smart contract audits with a proven track record in public audit contests. Currently, I'm a Lead Senior Watson at [Sherlock](https://audits.sherlock.xyz/), and Zenith Researcher at [Code4rena](https://code4rena.com/).
+I'm a Founding Security Researcher at [Blackthorn](https://www.blackthorn.xyz/), and Lead Senior Watson at [Sherlock](https://www.sherlock.xyz/), specializing in smart contract audits with a proven track record in public audit contests.
 
 Previous Life: 5 years of experience in the self-driving car industry, specializing in algorithm design, machine learning infrastructure, and system design.
 
@@ -12,31 +12,40 @@ For private audits or security consulting, please reach out to me on:
 ## Highlights
 
 - [Sherlock portfolio](https://audits.sherlock.xyz/watson/pkqs90)
-- Rank 1 🥇 in 10 audit contests at Sherlock / Code4rena / Cantina, with 15 top-5 finishings.
-- Rank #6 on Sherlock's all time leaderboard [[1]](https://x.com/sherlockdefi/status/1866120198429823267)
-- Rank #6 on Code4rena's 2024 leaderboard on July 2024 [[1]](https://x.com/woshilalala/status/1810453053113598055)
-- Lead 7 audit contests as Lead Senior Watson on Sherlock
+- Rank 🥇1 in 10 public audit contests, with 19 top-5 finishings.
+- Acheived #6 on Sherlock's all time leaderboard [[1]](https://x.com/sherlockdefi/status/1866120198429823267)
+- Acheived #7 on Code4rena's 2024 leaderboard [[1]](https://code4rena.com/leaderboard)
+
+## Team engagements
+
+| Date    | Platform | Project                              | Category                                         	           | Report   	|
+| ------- | -------	 | ------------------------------------ | ----------------------------------				 		   | :--:	  	|
+| 2024.12 | Sherlock | [Beraborrow](https://www.beraborrow.com/)                     | Lending, Stablecoin, LiquityV1/Prisma fork					 | [📑](https://1570492309-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FffzDCMBDa391vIMqruBP%2Fuploads%2FH0OeLYu0cq3ydXQjA8r4%2F%20Beraborrow%20Collaborative%20Audit%20Report%20.pdf?alt=media&token=da81d416-980b-4fef-ab5b-87a04e479a23) 	|
+| 2024.11 | Sherlock | [Majora](https://majora.finance/)                         | Yield Aggregator											 | [📑](https://majora.finance/security/sherlock-report.pdf)	|
 
 ## Public Audit Contests
 
-| Contest                              | Description                                                  | &nbsp;&nbsp;Ranking&nbsp;&nbsp; | Platform  | Date |
-| ------------------------------------ | ------------------------------------------------------------ | :-----------------------------------------: | :-------: | :--: |
-| [LoopFi](https://code4rena.com/audits/2024-10-loopfi)                         | A dedicated lending market for Ethereum carry trades. Users can supply a long tail of Liquid Restaking Tokens (LRT) and their derivatives as collateral to borrow ETH for increased yield exposure. |                  🥇1 / 24                   | Code4rena  | 2024.10 |
-| [AXION](https://audits.sherlock.xyz/contests/552?filter=results)                         | A Stablecoin built for DEFI, built on DEFI. Collateral is deployed in liquidity pools onchain: the AMO maintains peg while being profitable. |                  🥇1 / 283                   | Sherlock  | 2024.10 |
-| [Panoptic Invitational](https://code4rena.com/audits/2024-09-panoptic-invitational)                         | Permissionless, perpetual options trading on any token, any strike, any size. |                  🥇1 / 5                   | Code4rena  | 2024.10 |
-| [Midas - Instant Minter/Redeemer](https://audits.sherlock.xyz/contests/495)                         | This is issuing RWA tokens. This contest focuses on the new smart contract codebase that introduces new exciting features like the ability to instantly mint or redeem tokens, alongside new oracles. |                  🥇1 / 142                   | Sherlock  | 2024.08 |
-| [LoopFi](https://code4rena.com/audits/2024-07-loopfi)                         | A dedicated lending market for Ethereum carry trades. Users can supply a long tail of Liquid Restaking Tokens (LRT) and their derivatives as collateral to borrow ETH for increased yield exposure. |                  🥇1 / 150                   | Code4rena  | 2024.07 |
-| [Super Boring](https://audits.sherlock.xyz/contests/360)                         | SuperBoring, powered by the powerful streaming DEX system TOREX, adds incentive program such as a utility token ($BORING), staking referral, and distribution fees. |                  🥇1 / 28                   | Sherlock  | 2024.07 |
-| [Predy](https://code4rena.com/audits/2024-05-predy)                                | Unlock seamless, gas-free trading with our fully on-chain, vault-free Intent-based DEX for Perpetuals and Gamma, with no virtual positions. |                  🥇1 / 67                   | Code4rena  | 2024.06 |
-| [Midas](https://audits.sherlock.xyz/contests/332/leaderboard)                                | Midas is an asset tokenization protocol that issues tokenized real-world assets as permissionless ERC-20 tokens. |                  🥇1 / 216                   | Sherlock  | 2024.05 |
-| [Gamma - Locked Staking Contract](https://audits.sherlock.xyz/contests/330/leaderboard)      | The locked staking contract allows users to lock an ERC-20 token at various intervals and multipliers and receive fee distributions according to their amounts staked and multipliers. |                  🥇1 / 278                   | Sherlock  | 2024.05 |
-| [M^0](https://audits.sherlock.xyz/contests/124/leaderboard)                                  | A neutral value transmission framework able to permissionlessly mint currencies under decentralized governance. |                  🥇1 / 123                   | Sherlock  | 2024.03 |
-| [Ethos Network Social Contracts](https://audits.sherlock.xyz/contests/584?filter=results)                                  | Ethos Network is an on-chain social reputation platform. |                  🥈2 / 231                   | Sherlock  | 2024.10 |
-| [Panoptic](https://cantina.xyz/competitions/8773f033-afa5-4e7b-b0e8-8f989062ae8a/leaderboard)                                  | Panoptic is a decentralized and permissionless options trading protocol built on Uniswap V3 and V4. |                  🥈2                   | Cantina  | 2024.10 |
-| [Deepr](https://audits.sherlock.xyz/contests/433)                                | Deepr Finance is a DeFi platform that enables users to lend and borrow digital assets without the need for intermediaries, such as banks or traditional financial institutions. |                  🥈2 / 18                   | Sherlock  | 2024.07 |
-| [vVv Vesting & Staking](https://audits.sherlock.xyz/contests/278/leaderboard)                | vVv is the easiest way to gain exposure to the complete range of digital assets, including tokenized assets, real world assets, security tokens and cryptocurrencies. |                  🥈2 / 236                   | Sherlock  | 2024.03 |
-| [Teller Finance](https://audits.sherlock.xyz/contests/295/leaderboard)                       | Teller is a non-custodial lending book that enables time-based loans. |                  4 / 174                   | Sherlock  | 2024.04 |
-| [Size](https://code4rena.com/audits/2024-06-size)                                 | A credit marketplace with unified liquidity across maturities. |                  6 / 92                   | Code4rena  | 2024.06 |
-| [Noya](https://code4rena.com/audits/2024-04-noya)                                 | NOYA enables AI Agents to direct omnichain liquidity trustlessly using ZKML. |                  6 / 154                   | Code4rena  | 2024.05 |
-| [Panoptic](https://code4rena.com/audits/2024-04-panoptic)                             | Permissionless, perpetual options trading on any token, any strike, any size. |                  7 / 55                   | Code4rena  | 2024.04 |
-| [Arcadia](https://audits.sherlock.xyz/contests/137/leaderboard)                              | Arcadia connects passive lenders and on-chain leverage strategists. Earn passive interest or 10x your liquidity to deploy across protocols. |                  8 / 350                   | Sherlock  | 2024.02 |
+| Date | Platform | Contest                              		  | Category                          			| Ranking 	|
+| - | - | ----| ------------------------------------ 		  | 	-		|
+| 2024.12 | Cantina	  	| [Bima](https://cantina.xyz/competitions/44d68da7-3cf4-4cec-a3f8-f0917062dac6/leaderboard)                         			| Lending, Stablecoin, LiquityV1/Prisma fork	| 🥈2 / 338		|
+| 2024.11 | Cantina	  	| [Sorella](https://cantina.xyz/competitions/84df57a3-0526-49b8-a7c5-334888f43940/leaderboard)                         		| Limit order DEX, UniswapV4 hook				| 🥉3 / 303		|
+| 2024.10 | Code4rena  	| [LoopFi](https://code4rena.com/audits/2024-10-loopfi)                         		| Liquid restaking 								| 🥇1 / 24		|
+| 2024.10 | Sherlock  	| [Axion](https://audits.sherlock.xyz/contests/552?filter=results)                          		| Stablecoin 									| 🥇1 / 283		|
+| 2024.10 | Code4rena  	| [Panoptic Invitational](https://code4rena.com/audits/2024-09-panoptic-invitational)          		| Perpetual options 							| 🥇1 / 5		|
+| 2024.10 | Sherlock  	| [Ethos Network](https://audits.sherlock.xyz/contests/584?filter=results)       					| SocialFi 										| 🥈2 / 231		|
+| 2024.10 | Cantina  	| [Panoptic](https://cantina.xyz/competitions/8773f033-afa5-4e7b-b0e8-8f989062ae8a/leaderboard)                             	| Perpetual options 							| 🥈2 / 125		|
+| 2024.09 | Cantina  	| [Uniswap V4](https://cantina.xyz/competitions/e2cf6906-ec8b-4c78-a585-74ac90615659/leaderboard)							| AMM 											| 12 / 485		|
+| 2024.08 | Sherlock  	| [Midas](https://audits.sherlock.xyz/contests/495)									| RWAs 											| 🥇1 / 142		|
+| 2024.07 | Code4rena  	| [LoopFi](https://code4rena.com/audits/2024-07-loopfi)                         		| Liquid restaking 								| 🥇1 / 150		|
+| 2024.07 | Sherlock  	| [Super Boring](https://audits.sherlock.xyz/contests/360)                         	| DEX, Streaming payment 						| 🥇1 / 28		|
+| 2024.07 | Sherlock  	| [Deepr](https://audits.sherlock.xyz/contests/433)                                	| Lending, Staking, CompoundV2 fork				| 🥈2 / 18		|
+| 2024.06 | Code4rena  	| [Predy](https://code4rena.com/audits/2024-05-predy)                                	| DEX, Perpetuals 								| 🥇1 / 67		|
+| 2024.06 | Code4rena  	| [Size](https://code4rena.com/audits/2024-06-size)                                 	| Lending 										| 6 / 92		|
+| 2024.05 | Sherlock  	| [Midas](https://audits.sherlock.xyz/contests/332/leaderboard)                                	| RWAs											| 🥇1 / 216		|
+| 2024.05 | Sherlock  	| [Gamma](https://audits.sherlock.xyz/contests/330/leaderboard)      							| Staking 										| 🥇1 / 278		|
+| 2024.05 | Code4rena  	| [Noya](https://code4rena.com/audits/2024-04-noya)                                 	| Yield Aggregator, Cross-chain Liquidity		| 6 / 154		|
+| 2024.04 | Code4rena  	| [Panoptic](https://code4rena.com/audits/2024-04-panoptic)                             	| Perpetual options 							| 7 / 55		|
+| 2024.04 | Sherlock  	| [Teller Finance](https://audits.sherlock.xyz/contests/295/leaderboard)                       	| Lending 										| 4 / 174		|
+| 2024.03 | Sherlock  	| [M^0](https://audits.sherlock.xyz/contests/124/leaderboard)                                  	| RWA, Staking, Governance 						| 🥇1 / 123		|
+| 2024.03 | Sherlock  	| [vVv](https://audits.sherlock.xyz/contests/278/leaderboard)                					| Staking 										| 🥈2 / 236		|
+| 2024.02 | Sherlock  	| [Arcadia](https://audits.sherlock.xyz/contests/137/leaderboard)                              	| Lending, Yield 			 					| 8 / 350		|
