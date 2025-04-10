@@ -37,12 +37,6 @@ For private audits or security consulting, please reach out to me on:
 | 2024.07 | Sherlock  	| [Deepr](https://audits.sherlock.xyz/contests/433)                                	| Lending, Staking, Compound V2 fork			| 🥈2 / 18		|
 | 2024.03 | Sherlock  	| [vVv](https://audits.sherlock.xyz/contests/278/leaderboard)                					| Staking 										| 🥈2 / 236		|
 | 2024.11 | Cantina	  	| [Sorella](https://cantina.xyz/competitions/84df57a3-0526-49b8-a7c5-334888f43940/leaderboard)                         		| Limit order DEX, Uniswap V4 hook				| 🥉3 / 303		|
-| 2024.09 | Cantina  	| [Uniswap V4](https://cantina.xyz/competitions/e2cf6906-ec8b-4c78-a585-74ac90615659/leaderboard)							| AMM 											| 12 / 485		|
-| 2024.06 | Code4rena  	| [Size](https://code4rena.com/audits/2024-06-size)                                 	| Lending 										| 6 / 92		|
-| 2024.05 | Code4rena  	| [Noya](https://code4rena.com/audits/2024-04-noya)                                 	| Yield Aggregator, Cross-chain Liquidity		| 6 / 154		|
-| 2024.04 | Code4rena  	| [Panoptic](https://code4rena.com/audits/2024-04-panoptic)                             	| Perpetual options 							| 7 / 55		|
-| 2024.04 | Sherlock  	| [Teller Finance](https://audits.sherlock.xyz/contests/295/leaderboard)                       	| Lending 										| 4 / 174		|
-| 2024.02 | Sherlock  	| [Arcadia](https://audits.sherlock.xyz/contests/137/leaderboard)                              	| Lending, Yield 			 					| 8 / 350		|
 
 ## Team Audits
 
