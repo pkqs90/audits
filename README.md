@@ -6,7 +6,7 @@ Previous Life: 5 years of experience in the self-driving car industry, specializ
 
 For private audits or security consulting, please reach out to me on:
 
-- Twitter - [@woshilalala](https://x.com/woshilalala)
+- Twitter - [@pkqs90](https://x.com/pkqs90)
 - Discord - [@pkqs90](https://discord.com/users/pkqs90)
 
 ## Highlights
@@ -42,6 +42,8 @@ For private audits or security consulting, please reach out to me on:
 
 | Date    | Platform 	 | Project                              | Category                                         	           | Report   	|
 | ------- | ---------	 | ------------------------------------ | ----------------------------------				 		   | :--:	  	|
+| 2025.4  | Blackthorn	 | [Beraborrow](https://www.beraborrow.com/)		              | Leverage vaults												 | 			  |
+| 2025.4  | Blackthorn   | [Axion](https://axion.money/)                          | Stablecoin 													 | 			  |
 | 2025.3  | Blackthorn	 | [M^0](https://www.m0.org/)		                      | Yield Token													 | 			  |
 | 2024.12 | Sherlock 	 | [Symmio](https://www.symm.io/)                 	      | Token Allocation			 								 |			  |
 | 2024.12 | Sherlock 	 | [Beraborrow](https://www.beraborrow.com/)                     | Lending, Stablecoin, Liquity V1 fork						 | [📑](https://1570492309-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FffzDCMBDa391vIMqruBP%2Fuploads%2FH0OeLYu0cq3ydXQjA8r4%2F%20Beraborrow%20Collaborative%20Audit%20Report%20.pdf?alt=media&token=da81d416-980b-4fef-ab5b-87a04e479a23) 	|
