@@ -42,6 +42,8 @@ For private audits or security consulting, please reach out to me on:
 
 | Date    | Platform 	 | Project                              | Category                                         	           | Report   	|
 | ------- | ---------	 | ------------------------------------ | ----------------------------------				 		   | :--:	  	|
+| 2025.5  | Blackthorn	 | [Aave v3.4](https://aave.com/)		              | Lending														 | 			  |
+| 2025.5  | Blackthorn	 | [Beraborrow](https://www.beraborrow.com/)		              | Lending														 | 			  |
 | 2025.4  | Blackthorn	 | [Beraborrow](https://www.beraborrow.com/)		              | Leverage vaults												 | 			  |
 | 2025.4  | Blackthorn   | [Axion](https://axion.money/)                          | Stablecoin 													 | 			  |
 | 2025.3  | Blackthorn	 | [M^0](https://www.m0.org/)		                      | Yield Token													 | 			  |
