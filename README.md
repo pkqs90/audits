@@ -16,6 +16,29 @@ For private audits or security consulting, please reach out to me on:
 - Acheived #6 on Sherlock's all time leaderboard [[1]](https://x.com/sherlockdefi/status/1866120198429823267)
 - Acheived #7 on Code4rena's 2024 leaderboard [[1]](https://code4rena.com/leaderboard)
 
+## Private Engagements
+
+| Date    | Platform 	 | Project                              | Category                                         	           | Language	| Report   	|
+| ------- | ---------	 | ------------------------------------ | ----------------------------------				 		   | :--:	 	| :--:	  	|
+| 2025.11 | Sherlock	 | [Byzanlink](https://www.byzanlink.com/)		              | RWA, Yield vaults											 | Solidity	 | 			  |
+| 2025.11 | Sherlock	 | [Own Protocol](https://www.ownfinance.org/)		              | Synthetic stocks											 | Solidity	 | 			  |
+| 2025.10 | Blackthorn	 | [Aave V3.6](https://aave.com/)		              | Lending														 | Solidity	 | 			  |
+| 2025.10 | Blackthorn	 | [Aave V4](https://aave.com/)			              | Lending														 | Solidity	 | 			  |
+| 2025.09 | Sherlock	 | [Noble](https://www.noble.xyz/)			              | Yield Token													 | Solidity	 | 			  |
+| 2025.08 | Blackthorn	 | [Curvance](https://www.curvance.com/)			              | Lending														 | Solidity	 | 			  |
+| 2025.08 | Blackthorn	 | [Morpho Vaults V2](https://morpho.org/)	              | Lending, Vaults												 | Solidity	 | 			  |
+| 2025.07 | Sherlock	 | [BMX](https://www.bmx.trade/)				              | Staking, DEX, Uniswap v4 hook								 | Solidity	 | 			  |
+| 2025.07 | Sherlock	 | [Midas](https://midas.app/)			              | RWA															 | Solidity	 | 			  |
+| 2025.07 | Sherlock	 | [Beraborrow](https://www.beraborrow.com/)		              | Lending, Leverage vaults									 | Solidity	 | 			  |
+| 2025.05 | Blackthorn	 | [Aave V3.4](https://aave.com/)		              | Lending														 | Solidity	 | 			  |
+| 2025.05 | Sherlock	 | [Beraborrow](https://www.beraborrow.com/)		              | Lending, Leverage vaults									 | Solidity	 | 			  |
+| 2025.04 | Sherlock	 | [Beraborrow](https://www.beraborrow.com/)		              | Lending, Leverage vaults									 | Solidity	 | 			  |
+| 2025.04 | Sherlock 	 | [Axion](https://axion.money/)                          | Stablecoin 													 | Solidity	 | 			  |
+| 2025.03 | Blackthorn	 | [M^0](https://www.m0.org/)		                      | Yield Token													 | Solidity	 | 			  |
+| 2024.12 | Sherlock 	 | [Symmio](https://www.symm.io/)                 	      | Token Allocation			 								 | Solidity	 |			  |
+| 2024.12 | Sherlock 	 | [Beraborrow](https://www.beraborrow.com/)                     | Lending, Stablecoin, Liquity V1 fork						 | Solidity	 | [📑](https://1570492309-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FffzDCMBDa391vIMqruBP%2Fuploads%2FH0OeLYu0cq3ydXQjA8r4%2F%20Beraborrow%20Collaborative%20Audit%20Report%20.pdf?alt=media&token=da81d416-980b-4fef-ab5b-87a04e479a23) 	|
+| 2024.11 | Sherlock 	 | [Majora](https://majora.finance/)                         | Yield Aggregator											 | Solidity	 | [📑](https://majora.finance/security/sherlock-report.pdf)	|
+
 ## Public Audit Contests
 
 | Date   | Platform | Contest | Category | Language | Ranking |
@@ -46,20 +69,3 @@ For private audits or security consulting, please reach out to me on:
 | 2025.06  | Immunefi	 | *Hidden*		  		                | Perp Dex													   | Solidity	| Medium	|
 | 2025.06  | Immunefi	 | *Hidden*		  		                | Perp Dex													   | Solidity	| Medium	|
 
-## Team Audits
-
-| Date    | Platform 	 | Project                              | Category                                         	           | Language	| Report   	|
-| ------- | ---------	 | ------------------------------------ | ----------------------------------				 		   | :--:	 	| :--:	  	|
-| 2025.09 | Sherlock	 | [Noble](https://www.noble.xyz/)			              | Yield Token													 | Solidity	 | 			  |
-| 2025.08 | Blackthorn	 | [Morpho Vaults V2](https://morpho.org/)	              | Lending, Vaults												 | Solidity	 | 			  |
-| 2025.07 | Sherlock	 | [BMX](https://www.bmx.trade/)				              | Staking, DEX, Uniswap v4 hook								 | Solidity	 | 			  |
-| 2025.07 | Sherlock	 | [Midas](https://midas.app/)			              | RWA															 | Solidity	 | 			  |
-| 2025.07 | Sherlock	 | [Beraborrow](https://www.beraborrow.com/)		              | Lending, Leverage vaults									 | Solidity	 | 			  |
-| 2025.05 | Blackthorn	 | [Aave v3.4](https://aave.com/)		              | Lending														 | Solidity	 | 			  |
-| 2025.05 | Sherlock	 | [Beraborrow](https://www.beraborrow.com/)		              | Lending, Leverage vaults									 | Solidity	 | 			  |
-| 2025.04 | Sherlock	 | [Beraborrow](https://www.beraborrow.com/)		              | Lending, Leverage vaults									 | Solidity	 | 			  |
-| 2025.04 | Sherlock 	 | [Axion](https://axion.money/)                          | Stablecoin 													 | Solidity	 | 			  |
-| 2025.03 | Blackthorn	 | [M^0](https://www.m0.org/)		                      | Yield Token													 | Solidity	 | 			  |
-| 2024.12 | Sherlock 	 | [Symmio](https://www.symm.io/)                 	      | Token Allocation			 								 | Solidity	 |			  |
-| 2024.12 | Sherlock 	 | [Beraborrow](https://www.beraborrow.com/)                     | Lending, Stablecoin, Liquity V1 fork						 | Solidity	 | [📑](https://1570492309-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FffzDCMBDa391vIMqruBP%2Fuploads%2FH0OeLYu0cq3ydXQjA8r4%2F%20Beraborrow%20Collaborative%20Audit%20Report%20.pdf?alt=media&token=da81d416-980b-4fef-ab5b-87a04e479a23) 	|
-| 2024.11 | Sherlock 	 | [Majora](https://majora.finance/)                         | Yield Aggregator											 | Solidity	 | [📑](https://majora.finance/security/sherlock-report.pdf)	|
