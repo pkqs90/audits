@@ -20,6 +20,9 @@ For private audits or security consulting, please reach out to me on:
 
 | Date    | Platform 	 | Project                              | Category                                         	           | Language	| Report   	|
 | ------- | ---------	 | ------------------------------------ | ----------------------------------				 		   | :--:	 	| :--:	  	|
+| 2025.12 | Sherlock	 | [Bankr](https://bankr.bot/)	             		  | Swap bots													 | Solidity	 | 			  |
+| 2025.12 | Sherlock	 | [Alphix](https://www.alphix.fi/)	         	   		  | DEX, Uniswap v4 hook	 									 | Solidity	 | 			  |
+| 2025.11 | Blackthorn	 | [Morpho Adapter](https://morpho.org/)	              | Lending, Vaults												 | Solidity	 | 			  |
 | 2025.11 | Sherlock	 | [Byzanlink](https://www.byzanlink.com/)		              | RWA, Yield vaults											 | Solidity	 | 			  |
 | 2025.11 | Sherlock	 | [Own Protocol](https://www.ownfinance.org/)		              | Synthetic stocks											 | Solidity	 | 			  |
 | 2025.10 | Blackthorn	 | [Aave V3.6](https://aave.com/)		              | Lending														 | Solidity	 | 			  |
@@ -65,6 +68,7 @@ For private audits or security consulting, please reach out to me on:
 
 | Date    | Platform 	 | Project                              | Category                                         	           | Language	| Severity  |
 | ------- | ---------	 | ------------------------------------ | ----------------------------------				 		   | :--:	 	| :--:	  	|
+| 2025.07  | Immunefi	 | *Hidden*		  		                | Lending													   | Clarity 	| Low		|
 | 2025.06  | Immunefi	 | *Hidden*		  		                | Lending													   | Clarity 	| High		|
 | 2025.06  | Immunefi	 | *Hidden*		  		                | Perp Dex													   | Solidity	| Medium	|
 | 2025.06  | Immunefi	 | *Hidden*		  		                | Perp Dex													   | Solidity	| Medium	|
