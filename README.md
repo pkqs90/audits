@@ -12,7 +12,7 @@ For private audits or security consulting, please reach out to me on:
 ## Highlights
 
 - [Sherlock portfolio](https://audits.sherlock.xyz/watson/pkqs90)
-- Rank 🥇1 in 11 public audit contests, with 17 top-3 finishings.
+- Rank 🥇1 in 12 public audit contests, with 18 top-3 finishings.
 - Acheived #6 on Sherlock's all time leaderboard [[1]](https://x.com/sherlockdefi/status/1866120198429823267)
 - Acheived #7 on Code4rena's 2024 leaderboard [[1]](https://code4rena.com/leaderboard)
 
@@ -46,6 +46,7 @@ For private audits or security consulting, please reach out to me on:
 
 | Date   | Platform | Contest | Category | Language | Ranking |
 |--------|----------|---------|----------|----------|---------|
+| 2025.05 | Cantina | [Space and Time](https://cantina.xyz/competitions/3cc30b66-1cba-4044-968f-a0817cd7bf83/leaderboard) | L1, Cross-chain, Staking | Rust/Substrate | 🥇&nbsp;1&nbsp;/&nbsp;680 |
 | 2025.02 | Sherlock | [Peapods](https://audits.sherlock.xyz/contests/749) | Volatility Farming, Fraxlend Fork | Solidity | 🥇&nbsp;1&nbsp;/&nbsp;405 |
 | 2024.10 | Code4rena | [LoopFi](https://code4rena.com/audits/2024-10-loopfi) | Liquid restaking | Solidity | 🥇&nbsp;1&nbsp;/&nbsp;24 |
 | 2024.10 | Sherlock | [Axion](https://audits.sherlock.xyz/contests/552?filter=results) | Stablecoin | Solidity | 🥇&nbsp;1&nbsp;/&nbsp;283 |
