@@ -20,6 +20,7 @@ For private audits or security consulting, please reach out to me on:
 
 | Date    | Platform 	 | Project                              | Category                                         	           | Language	| Report   	|
 | ------- | ---------	 | ------------------------------------ | ----------------------------------				 		   | :--:	 	| :--:	  	|
+| 2025.12 | Sherlock	 | [dHEDGE](https://dhedge.org/)	           		 	  | Lending														 | Solidity	 | 			  |
 | 2025.12 | Sherlock	 | [Bankr](https://bankr.bot/)	             		  | Swap bots													 | Solidity	 | 			  |
 | 2025.12 | Sherlock	 | [Alphix](https://www.alphix.fi/)	         	   		  | DEX, Uniswap v4 hook	 									 | Solidity	 | 			  |
 | 2025.11 | Blackthorn	 | [Morpho Adapter](https://morpho.org/)	              | Lending, Vaults												 | Solidity	 | 			  |
