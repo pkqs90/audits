@@ -71,10 +71,12 @@ For private audits or security consulting, please reach out to me on:
 | 2024.03 | Sherlock | [vVv](https://audits.sherlock.xyz/contests/278/leaderboard) | Staking | Solidity | 🥈&nbsp;2&nbsp;/&nbsp;236 |
 | 2024.11 | Cantina | [Sorella](https://cantina.xyz/competitions/84df57a3-0526-49b8-a7c5-334888f43940/leaderboard) | Limit order DEX, Uniswap V4 hook | Solidity | 🥉&nbsp;3&nbsp;/&nbsp;303 |
 
-## Bug bounty
+## Bug bounties
 
 | Date    | Platform 	 | Project     | Finding | Language | Severity | Bounty Amount |
 | ------- | ---------	 | ----------- | ------- | :------: | :------: | :-----------: |
+| 2026.03 | Code4rena	 | *Hidden*    | Perp Dex | Rust | High | 12k |
+| 2026.03 | Code4rena	 | *Hidden*    | Blockchain/DLT | Rust | Critical | 20k |
 | 2026.03 | Immunefi	 | *Hidden*    | Blockchain/DLT | JavaScript | Critical | 2.5k |
 | 2026.03 | Immunefi	 | *Hidden*    | Blockchain/DLT | Rust | Medium | 1k |
 | 2026.03 | Immunefi	 | *Hidden*    | Blockchain/DLT | Rust | High | 2k |
