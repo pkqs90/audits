@@ -12,7 +12,7 @@ For private audits or security consulting, please reach out to me on:
 ## Highlights
 
 - [Sherlock portfolio](https://audits.sherlock.xyz/watson/pkqs90)
-- Rank 🥇1 in 12 public audit contests, with 18 top-3 finishings.
+- Rank 🥇1 in 13 public audit contests, with 19 top-3 finishings.
 - Acheived #6 on Sherlock's all time leaderboard [[1]](https://x.com/sherlockdefi/status/1866120198429823267)
 - Acheived #7 on Code4rena's 2024 leaderboard [[1]](https://code4rena.com/leaderboard)
 
@@ -20,6 +20,10 @@ For private audits or security consulting, please reach out to me on:
 
 | Date    | Platform 	 | Project                              | Category                                         	           | Language	| Report   	|
 | ------- | ---------	 | ------------------------------------ | ----------------------------------				 		   | :--:	 	| :--:	  	|
+| 2026.02 | Sherlock	 | [1Money Network](https://www.1moneynetwork.com/)	            | Payments Network, Stablecoin									 | Solidity	 | 			  |
+| 2026.02 | Sherlock	 | [TokenLogic](https://www.tokenlogic.xyz/)	              | Treasury Management, DeFi									 | Solidity	 | 			  |
+| 2026.02 | Blackthorn	 | [Aave V4 Update](https://aave.com/)		              | Lending														 | Solidity	 | 			  |
+| 2026.01 | Sherlock	 | [Byzanlink Update](https://www.byzanlink.com/)		              | RWA, Yield vaults											 | Solidity	 | 			  |
 | 2025.12 | Sherlock	 | [dHEDGE](https://dhedge.org/)	           		 	  | Lending														 | Solidity	 | 			  |
 | 2025.12 | Sherlock	 | [Bankr](https://bankr.bot/)	             		  | Swap bots													 | Solidity	 | 			  |
 | 2025.12 | Sherlock	 | [Alphix](https://www.alphix.fi/)	         	   		  | DEX, Uniswap v4 hook	 									 | Solidity	 | 			  |
@@ -47,6 +51,7 @@ For private audits or security consulting, please reach out to me on:
 
 | Date   | Platform | Contest | Category | Language | Ranking |
 |--------|----------|---------|----------|----------|---------|
+| 2026.01 | Sherlock | [Flying Tulip](https://audits.sherlock.xyz/contests/1223) | Perpetual PUT Options | Solidity | 🥇&nbsp;1&nbsp;/&nbsp;1082 |
 | 2025.05 | Cantina | [Space and Time](https://cantina.xyz/competitions/3cc30b66-1cba-4044-968f-a0817cd7bf83/leaderboard) | L1, Cross-chain, Staking | Rust/Substrate | 🥇&nbsp;1&nbsp;/&nbsp;680 |
 | 2025.02 | Sherlock | [Peapods](https://audits.sherlock.xyz/contests/749) | Volatility Farming, Fraxlend Fork | Solidity | 🥇&nbsp;1&nbsp;/&nbsp;405 |
 | 2024.10 | Code4rena | [LoopFi](https://code4rena.com/audits/2024-10-loopfi) | Liquid restaking | Solidity | 🥇&nbsp;1&nbsp;/&nbsp;24 |
@@ -68,10 +73,14 @@ For private audits or security consulting, please reach out to me on:
 
 ## Bug bounty
 
-| Date    | Platform 	 | Project                              | Category                                         	           | Language	| Severity  |
-| ------- | ---------	 | ------------------------------------ | ----------------------------------				 		   | :--:	 	| :--:	  	|
-| 2025.07  | Immunefi	 | *Hidden*		  		                | Lending													   | Clarity 	| Low		|
-| 2025.06  | Immunefi	 | *Hidden*		  		                | Lending													   | Clarity 	| High		|
-| 2025.06  | Immunefi	 | *Hidden*		  		                | Perp Dex													   | Solidity	| Medium	|
-| 2025.06  | Immunefi	 | *Hidden*		  		                | Perp Dex													   | Solidity	| Medium	|
-
+| Date    | Platform 	 | Project     | Finding | Language | Severity | Bounty Amount |
+| ------- | ---------	 | ----------- | ------- | :------: | :------: | :-----------: |
+| 2026.03 | Immunefi	 | *Hidden*    | Blockchain/DLT | JavaScript | Critical | 2.5k |
+| 2026.03 | Immunefi	 | *Hidden*    | Blockchain/DLT | Rust | Medium | 1k |
+| 2026.03 | Immunefi	 | *Hidden*    | Blockchain/DLT | Rust | High | 2k |
+| 2026.03 | Immunefi	 | *Hidden*    | Blockchain/DLT | Rust | Critical | 5k |
+| 2026.02 | Immunefi	 | *Hidden*    | Dex | Cosmos/Go | Critical | 100k |
+| 2026.02 | Immunefi	 | *Hidden*    | Blockchain/DLT | C++ | Critical | 10k |
+| 2025.06 | Immunefi	 | *Hidden*    | Lending | Clarity | High | 3k |
+| 2025.06 | Immunefi	 | *Hidden*    | Perp Dex | Solidity | Medium | 1k |
+| 2025.06 | Immunefi	 | *Hidden*    | Perp Dex | Solidity | Medium | 5k |
