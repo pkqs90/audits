@@ -20,10 +20,14 @@ For private audits or security consulting, please reach out to me on:
 
 | Date    | Platform 	 | Project                              | Category                                         	           | Language	| Report   	|
 | ------- | ---------	 | ------------------------------------ | ----------------------------------				 		   | :--:	 	| :--:	  	|
+| 2026.05 | Sherlock	 | [Lista DAO](https://lista.org/)	            	| Liquid Staking												 | Solidity	 | 			  |
+| 2026.04 | Sherlock	 | [M0 PYUSDx](https://www.m0.org/press-releases/moonpay-m0-and-paypal-announce-pyusdx-the-infrastructure-platform-for-pyusd-backed-stablecoins)	            	| Yield tokens													 | Solidity	 | 			  |
+| 2026.04 | Sherlock	 | [Vena Finance](https://www.vena.finance/)	            	| Lending														 | Solidity	 | 			  |
+| 2026.04 | Blackthorn	 | [Morpho](https://morpho.org/)	            		| Lending														 | Solidity	 | 			  |
 | 2026.02 | Sherlock	 | [1Money Network](https://www.1moneynetwork.com/)	            | Payments Network, Stablecoin									 | Solidity	 | 			  |
-| 2026.02 | Sherlock	 | [TokenLogic](https://www.tokenlogic.xyz/)	              | Treasury Management, DeFi									 | Solidity	 | 			  |
-| 2026.02 | Blackthorn	 | [Aave V4 Update](https://aave.com/)		              | Lending														 | Solidity	 | 			  |
-| 2026.01 | Sherlock	 | [Byzanlink Update](https://www.byzanlink.com/)		              | RWA, Yield vaults											 | Solidity	 | 			  |
+| 2026.02 | Sherlock	 | [TokenLogic](https://www.tokenlogic.xyz/)	              	| Treasury Management, DeFi							  		 	 | Solidity	 | 			  |
+| 2026.02 | Blackthorn	 | [Aave V4 Update](https://aave.com/)		        | Lending														 | Solidity	 | 			  |
+| 2026.01 | Sherlock	 | [Byzanlink Update](https://www.byzanlink.com/)		        | RWA, Yield vaults											 	 | Solidity	 | 			  |
 | 2025.12 | Sherlock	 | [dHEDGE](https://dhedge.org/)	           		 	  | Lending														 | Solidity	 | 			  |
 | 2025.12 | Sherlock	 | [Bankr](https://bankr.bot/)	             		  | Swap bots													 | Solidity	 | 			  |
 | 2025.12 | Sherlock	 | [Alphix](https://www.alphix.fi/)	         	   		  | DEX, Uniswap v4 hook	 									 | Solidity	 | 			  |
@@ -73,16 +77,13 @@ For private audits or security consulting, please reach out to me on:
 
 ## Bug bounties
 
-| Date    | Platform 	 | Project     | Finding | Language | Severity | Bounty Amount |
-| ------- | ---------	 | ----------- | ------- | :------: | :------: | :-----------: |
-| 2026.03 | Code4rena	 | *Hidden*    | Perp Dex | Rust | High | 12k |
-| 2026.03 | Code4rena	 | *Hidden*    | Blockchain/DLT | Rust | Critical | 20k |
-| 2026.03 | Immunefi	 | *Hidden*    | Blockchain/DLT | JavaScript | Critical | 2.5k |
-| 2026.03 | Immunefi	 | *Hidden*    | Blockchain/DLT | Rust | Medium | 1k |
-| 2026.03 | Immunefi	 | *Hidden*    | Blockchain/DLT | Rust | High | 2k |
-| 2026.03 | Immunefi	 | *Hidden*    | Blockchain/DLT | Rust | Critical | 5k |
-| 2026.02 | Immunefi	 | *Hidden*    | Dex | Cosmos/Go | Critical | 100k |
-| 2026.02 | Immunefi	 | *Hidden*    | Blockchain/DLT | C++ | Critical | 10k |
-| 2025.06 | Immunefi	 | *Hidden*    | Lending | Clarity | High | 3k |
-| 2025.06 | Immunefi	 | *Hidden*    | Perp Dex | Solidity | Medium | 1k |
-| 2025.06 | Immunefi	 | *Hidden*    | Perp Dex | Solidity | Medium | 5k |
+| Date    | Platform 	 | Project     | Finding | Language | Severity | Bounty Amount | Report |
+| ------- | ---------	 | ----------- | ------- | :------: | :------: | :-----------: | :--: |
+| 2026.03 | Code4rena	 | GMTrade     | Perp Dex | Rust | 1 High | 12k | [📑](https://github.com/code-423n4/gmtrade-bug-bounty/issues/45) |
+| 2026.03 | Code4rena	 | Succinct	   | Blockchain/DLT | Rust | 1 High | 20k | [📑](https://github.com/code-423n4/succinct-bug-bounty/issues/75) |
+| 2026.03 | Immunefi	 | *Hidden*    | Blockchain/DLT | JavaScript | 1 Critical | 2.5k |  |
+| 2026.03 | Immunefi	 | *Hidden*    | Blockchain/DLT | Rust | 1 Critical, 2 Highs | 9k |  |
+| 2026.02 | Immunefi	 | *Hidden*    | Dex | Cosmos/Go | 1 Critical | 100k |  |
+| 2026.02 | Immunefi	 | *Hidden*    | Blockchain/DLT | C++ | 1 Critical | 10k |  |
+| 2025.06 | Immunefi	 | *Hidden*    | Lending | Clarity | 1 High | 3k |  |
+| 2025.06 | Immunefi	 | *Hidden*    | Perp Dex | Solidity | 1 Medium | 5k |  |
