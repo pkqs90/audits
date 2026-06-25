@@ -79,6 +79,7 @@ For private audits or security consulting, please reach out to me on:
 
 | Date    | Platform 	 | Project     | Finding | Language | Severity | Bounty Amount | Report |
 | ------- | ---------	 | ----------- | ------- | :------: | :------: | :-----------: | :--: |
+| 2026.04 | Immunefi	 | *Hidden*    | Lending | Rust | 1 High | 10k |  |
 | 2026.03 | Code4rena	 | GMTrade     | Perp Dex | Rust | 1 High | 12k | [📑](https://github.com/code-423n4/gmtrade-bug-bounty/issues/45) |
 | 2026.03 | Code4rena	 | Succinct	   | Blockchain/DLT | Rust | 1 High | 20k | [📑](https://github.com/code-423n4/succinct-bug-bounty/issues/75) |
 | 2026.03 | Immunefi	 | *Hidden*    | Blockchain/DLT | JavaScript | 1 Critical | 2.5k |  |
