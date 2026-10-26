@@ -1,6 +1,6 @@
 ## About Me
 
-I'm a Lead Security Partner at [Blackthorn](https://www.blackthorn.xyz/), and Lead Senior Watson at [Sherlock](https://www.sherlock.xyz/), specializing in smart contract audits with a proven track record in public audit contests.
+I'm a Lead Security Partner at [Blackthorn](https://www.blackthorn.xyz/), and Lead Senior Watson at [Sherlock](https://www.sherlock.xyz/), specializing in smart contract audits with a proven track record in public audit contests. I also built a [local AI-assisted security research harness](https://x.com/pkqs91/status/2070157806104457395) that has helped me find vulnerabilities and earn bug bounties across multiple protocols.
 
 Previous Life: 5 years of experience in the self-driving car industry, specializing in complex system design/ algorithm design.
 
@@ -12,14 +12,21 @@ For private audits or security consulting, please reach out to me on:
 ## Highlights
 
 - [Sherlock portfolio](https://audits.sherlock.xyz/watson/pkqs90)
-- Rank 🥇1 in 13 public audit contests, with 19 top-3 finishings.
-- Acheived #6 on Sherlock's all time leaderboard [[1]](https://x.com/sherlockdefi/status/1866120198429823267)
-- Acheived #7 on Code4rena's 2024 leaderboard [[1]](https://code4rena.com/leaderboard)
+- 🥇 14 first-place finishes and 20 top-3 finishes.
+- Achieved #6 on Sherlock's all time leaderboard [[1]](https://x.com/sherlockdefi/status/1866120198429823267)
+- Achieved #7 on Code4rena's 2024 leaderboard [[1]](https://code4rena.com/leaderboard)
 
 ## Private Engagements
 
 | Date    | Platform 	 | Project                              | Category                                         	           | Language	| Report   	|
 | ------- | ---------	 | ------------------------------------ | ----------------------------------				 		   | :--:	 	| :--:	  	|
+| 2026.09 | Blackthorn | [Cap](https://www.cap.app/) | Stablecoin, Lending | Solidity | |
+| 2026.09 | Blackthorn | [Morpho Midnight Bundles Update](https://morpho.org/) | Lending | Solidity | |
+| 2026.09 | Blackthorn | [Morpho Rate Ratifiers](https://morpho.org/) | Lending | Solidity | |
+| 2026.09 | Blackthorn | [Morpho WhitelistEnterGate](https://morpho.org/) | Lending | Solidity | |
+| 2026.08 | Sherlock | [Townsquare](https://www.townsq.xyz/) | Vaults | Solidity | |
+| 2026.07 | Sherlock | [Moonwell](https://moonwell.fi/) | Lending | Solidity | |
+| 2026.06 | Sherlock | [Neverland Lending Pool](https://neverland.money/) | Lending | Solidity | |
 | 2026.05 | Sherlock	 | [Lista DAO](https://lista.org/)	            	| Liquid Staking												 | Solidity	 | 			  |
 | 2026.04 | Sherlock	 | [M0 PYUSDx](https://www.m0.org/press-releases/moonpay-m0-and-paypal-announce-pyusdx-the-infrastructure-platform-for-pyusd-backed-stablecoins)	            	| Yield tokens													 | Solidity	 | 			  |
 | 2026.04 | Sherlock	 | [Vena Finance](https://www.vena.finance/)	            	| Lending														 | Solidity	 | 			  |
@@ -55,6 +62,7 @@ For private audits or security consulting, please reach out to me on:
 
 | Date   | Platform | Contest | Category | Language | Ranking |
 |--------|----------|---------|----------|----------|---------|
+| 2026.08 | Sherlock AE | [Aero](https://audit-engine.sherlock.xyz/engagements/d1969ab4-bd4d-4ebb-bdf8-563959bc3e71?tab=benchmarking) | DEX, Cross-chain | Solidity | 🥇&nbsp;1 |
 | 2026.01 | Sherlock | [Flying Tulip](https://audits.sherlock.xyz/contests/1223) | Perpetual PUT Options | Solidity | 🥇&nbsp;1&nbsp;/&nbsp;1082 |
 | 2025.05 | Cantina | [Space and Time](https://cantina.xyz/competitions/3cc30b66-1cba-4044-968f-a0817cd7bf83/leaderboard) | L1, Cross-chain, Staking | Rust/Substrate | 🥇&nbsp;1&nbsp;/&nbsp;680 |
 | 2025.02 | Sherlock | [Peapods](https://audits.sherlock.xyz/contests/749) | Volatility Farming, Fraxlend Fork | Solidity | 🥇&nbsp;1&nbsp;/&nbsp;405 |
@@ -74,11 +82,17 @@ For private audits or security consulting, please reach out to me on:
 | 2024.07 | Sherlock | [Deepr](https://audits.sherlock.xyz/contests/433) | Lending, Staking, Compound V2 fork | Solidity | 🥈&nbsp;2&nbsp;/&nbsp;18 |
 | 2024.03 | Sherlock | [vVv](https://audits.sherlock.xyz/contests/278/leaderboard) | Staking | Solidity | 🥈&nbsp;2&nbsp;/&nbsp;236 |
 | 2024.11 | Cantina | [Sorella](https://cantina.xyz/competitions/84df57a3-0526-49b8-a7c5-334888f43940/leaderboard) | Limit order DEX, Uniswap V4 hook | Solidity | 🥉&nbsp;3&nbsp;/&nbsp;303 |
+| 2026.07 | Sherlock | [Metric](https://audits.sherlock.xyz/contests/1279/leaderboard) | DEX, Active Liquidity | Solidity | #5 |
+| 2026.04 | Sherlock | [XRP Ledger](https://audits.sherlock.xyz/contests/1260/leaderboard) | L1, DEX, Payments | C++ | #5 |
 
 ## Bug bounties
 
-| Date    | Platform 	 | Project     | Finding | Language | Severity | Bounty Amount | Report |
+| Date    | Platform 	 | Project     | Category | Language | Severity | Bounty Amount | Report |
 | ------- | ---------	 | ----------- | ------- | :------: | :------: | :-----------: | :--: |
+| 2026.09 | Immunefi | *Hidden* | Blockchain/DLT | JavaScript, Solidity, Oscript | 5 Criticals | *Hidden* | |
+| 2026.09 | HackenProof | *Hidden* | Blockchain/DLT | Go | 1 Medium | 5k | |
+| 2026.08 | Immunefi | *Hidden* | Blockchain/DLT | Java | 1 High | 5k | |
+| 2026.08 | Immunefi | *Hidden* | Blockchain/DLT | Rust | 1 Low, 1 Medium | 6k | |
 | 2026.04 | Immunefi	 | *Hidden*    | Lending | Rust | 1 High | 10k |  |
 | 2026.03 | Code4rena	 | GMTrade     | Perp Dex | Rust | 1 High | 12k | [📑](https://github.com/code-423n4/gmtrade-bug-bounty/issues/45) |
 | 2026.03 | Code4rena	 | Succinct	   | Blockchain/DLT | Rust | 1 High | 20k | [📑](https://github.com/code-423n4/succinct-bug-bounty/issues/75) |
